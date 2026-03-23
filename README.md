@@ -1,5 +1,13 @@
 # blackroad-access-control
 
+> BlackRoad Security - ublackroad access control
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Security](https://github.com/BlackRoad-Security)
+
+---
+
+# blackroad-access-control
+
 Production RBAC (Role-Based Access Control) engine with SQLite persistence and full audit logging.
 
 ## Features
